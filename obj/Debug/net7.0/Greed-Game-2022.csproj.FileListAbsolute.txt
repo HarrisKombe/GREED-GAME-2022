@@ -1,0 +1,5 @@
+/Users/harrismorgan/Desktop/Greed-Game-2022/obj/Debug/net7.0/Greed-Game-2022.csproj.AssemblyReference.cache
+/Users/harrismorgan/Desktop/Greed-Game-2022/obj/Debug/net7.0/Greed-Game-2022.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrismorgan/Desktop/Greed-Game-2022/obj/Debug/net7.0/Greed-Game-2022.AssemblyInfoInputs.cache
+/Users/harrismorgan/Desktop/Greed-Game-2022/obj/Debug/net7.0/Greed-Game-2022.AssemblyInfo.cs
+/Users/harrismorgan/Desktop/Greed-Game-2022/obj/Debug/net7.0/Greed-Game-2022.csproj.CoreCompileInputs.cache
